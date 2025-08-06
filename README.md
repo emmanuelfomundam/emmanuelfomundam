@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🔭 I’m currently working on **H.O.D (House Of Dreams)**
+
+- 📝 I regularly write articles on [https://medium.com/@emmanuel-fomundam](https://medium.com/@emmanuel-fomundam)
 
 - 📫 How to reach me **emmanuelfomundam12@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/emmanuel-fomundam/](https://www.linkedin.com/in/emmanuel-fomundam/)
+
+- ⚡ Fun fact **I play 4 instruments**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,6 +26,10 @@
 <a href="https://linkedin.com/in/emmanuel-fomundam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-fomundam" height="30" width="40" /></a>
 <a href="https://kaggle.com/emmanuelfomundam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emmanuelfomundam" height="30" width="40" /></a>
 <a href="https://medium.com/@emmanuel-fomundam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emmanuel-fomundam" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/efomundam12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="efomundam12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/emmanuelfomundam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emmanuelfomundam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/67zvpyvzv8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="67zvpyvzv8" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/emmanuel-fomundam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="emmanuel-fomundam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
